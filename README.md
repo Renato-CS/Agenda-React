@@ -74,4 +74,4 @@ Esse projeto está sob a licença MIT.
 
 <hr/>
 
-4P Softwares
+http://www.renatosousa.tk/
