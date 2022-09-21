@@ -20,7 +20,7 @@ Projeto Agenda Contatos login,cadastro e CRUD podendo adicionar novos itens, edi
   
  ### ✅ Demonstração
  <p align="center">
-  <img src="Client/src/Assets/to_readme/Login-CRUD.gif"> 
+  <img src="Client/src/Assets/to_readme/login.jpg"> 
 </p>
 
 
