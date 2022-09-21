@@ -34,7 +34,7 @@ instalado [MySQl::Workbench](https://www.mysql.com/products/workbench/).
 
 ### 🔧 Configurando Banco de Dados
  <p align="center">
-  <img src="Client/src/Assets/to_readme/banco.gif" >
+  <img src="Client/src/Assets/to_readme/modelo logico.jpg" >
 </p>
 
 
